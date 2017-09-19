@@ -41,4 +41,6 @@ Si quiero poner un enlace [google](http://www.google.es)
 |colum|colum|colum|...etc|
 |-----|-----|-----|------|
 |colum|colum|colum|...etc|
+|colum|colum|colum|...etc|
+
  //si no pongo estos guiones no se me dibuja la tabla
