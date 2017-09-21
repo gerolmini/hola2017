@@ -31,16 +31,16 @@ Permite darle estilos a un texto de una forma rapida
 + depende de los enter`s
 
 ~~~
-con el 3 simbolo de estos ~ que se consiguen con las teclas AltGr+4
-y hay que cerrarlo poniendo 4 de estos simbolos.
+con el 3 simbolos de estos ~ que se consiguen con las teclas AltGr+4, el fondo sale
+de color negropizarra y hay que cerrarlo poniendo 4 de estos simbolos.
 ~~~~
 Si quiero poner un enlace [google](http://www.google.es)
 
-`comillas francesa esta invertida le da un fondo color gris`
+`comillas francesa esta invertida le da un fondo color grisclaro`
 
 |colum|colum|colum|...etc|
 |-----|-----|-----|------|
 |colum|colum|colum|...etc|
 |colum|colum|colum|...etc|
 
- //si no pongo estos guiones no se me dibuja la tabla
+ //estos guiones ------ hace que los títulos sean en negrita.
